@@ -1,0 +1,9 @@
+{
+    "messages": {
+        "hi": "Привет мир!"
+    },
+    "components": {
+        "header": "Шапка",
+        "footer": "Подвал"
+    }
+}

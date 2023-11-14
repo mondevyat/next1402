@@ -1,0 +1,9 @@
+{
+    "messages": {
+        "hi": "Hello World!"
+    },
+    "components": {
+        "header": "Header",
+        "footer": "Footer"
+    }
+}
